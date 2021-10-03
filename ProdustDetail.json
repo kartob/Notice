@@ -1,0 +1,23 @@
+{
+	"ModelCode": "2",
+	"ModelName": "كت و شلوار دو دكمه ، دوچاك ،يقه دال",
+	"ModelHint": " مناسب مراسم رسمي و محل كار. اين يقه ،  هميشه مد است.",
+	"SuitSet": "1",
+	"ModelImage": "http://patis.co/patis/attachments/models/2/c2__1.jpg",
+	"ModelImages":["https://dkstatics-public.digikala.com/digikala-products/024d28f691a401bd80c6559cccbe52a70337951a_1598861220.jpg?x-oss-process=image/resize,w_1600/quality,q_80","https://dkstatics-public.digikala.com/digikala-products/e3f26893ad6c3b42ac49feedc2cd1fde31593360_1598861223.jpg?x-oss-process=image/resize,w_1600/quality,q_80","https://dkstatics-public.digikala.com/digikala-products/80d0baec0cf494e12ff7bfff20658060c93f169f_1598861224.jpg?x-oss-process=image/resize,w_1600/quality,q_80","https://dkstatics-public.digikala.com/digikala-products/1e95de13610512a6d2d381ad4a5af4ffa11fb618_1598861226.jpg?x-oss-process=image/resize,w_1600/quality,q_80"],
+	"ModelComponents": [{
+			"Dcargo": "1",
+			"DcargoName": "كت",
+			"Image": "http://patis.co/patis/attachments/dcargo/1/c1__1.png",
+			"Quantity": "1",
+			"HasPoints": "0"
+		},
+		{
+			"Dcargo": "2",
+			"DcargoName": "شلوار",
+			"Image": "http://patis.co/patis/attachments/dcargo/2/c2__1.png",
+			"Quantity": "1",
+			"HasPoints": "0"
+		}
+	]
+}
